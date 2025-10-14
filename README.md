@@ -18,6 +18,11 @@ URL: https://assethub-endpoint-bun.up.railway.app/kusama
 
 The Kusama endpoint works perfectly when running on Bun runtime (deployed on Railway).
 
+### Vercel - Works Fine ✅
+URL: https://assethub-endpoint.vercel.app/kusama
+
+The Kusama endpoint works perfectly when running on Vercel.
+
 ### Cloudflare Workers - Hangs ❌
 URL: https://assethub-endpoint.gogeta.workers.dev/kusama
 
