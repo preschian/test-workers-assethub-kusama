@@ -1,0 +1,15 @@
+{
+  "name": "test-bun-runtime",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts",
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "dedot": "^0.18.3",
+    "hono": "^4.9.12"
+  },
+  "devDependencies": {
+    "@dedot/chaintypes": "^0.164.0",
+    "@types/bun": "latest"
+  }
+}
